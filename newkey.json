@@ -1,16 +1,22 @@
 {
   "showDialog": true,
-  "appVersionCode": 1,
-  "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.",
-  "updateButtonText": "Update",
-  "updateButtonLink": "https://google.com",
-  "updateButtonGradientStartColor": "#1E88E5",
-  "updateButtonGradientEndColor": "#64B5F6",
-  "cancelButtonText": "Cancel",
-  "cancelClosesApp": true,
-  "cancelButtonGradientStartColor": "#1E88E5",
-  "cancelButtonGradientEndColor": "#64B5F6",
-  "textGradientStartColor": "#1E88E5",
-  "textGradientEndColor": "#64B5F6",
-  "dialogBackgroundColor": "#FFFFFF"
+  "title": "🔐 ID Login",
+  "description":  "salesedge gt 15.6.1",
+  "button": "LOGIN",
+  "toast": "✅ ID Successfully Logged In!",
+  "renewUrl": "https://t.me/hitesh125sf",
+  "devices": [
+    {
+      "device_id": "441ba50c4a2a94ce",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2026-10-20"
+    },
+    {
+      "device_id": "441ba50c4a2a94ce",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2026-10-20"
+    }
+  ]
 }
